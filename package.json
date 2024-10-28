@@ -11,7 +11,10 @@
   "author": "jospin@mediabox.bi",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/js": "^9.13.0",
     "@types/jest": "^29.5.13",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.2",
     "jest": "^29.7.0"
   },
   "dependencies": {
